@@ -1,2 +1,2 @@
 # R3_exercises
-Practice for R3 workshop
+Practice for R3 workshop - RStudio
